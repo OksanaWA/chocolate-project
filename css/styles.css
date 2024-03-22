@@ -1,0 +1,343 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.title{
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 117%;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #111;
+}
+.accent{
+        color: #fd9222;
+}
+
+.navigation {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 111%;
+    letter-spacing: -0.03em;
+    color: #111;
+}
+
+.navigation-list {}
+
+.navigation-item {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 114%;
+    letter-spacing: -0.02em;
+    color: #111;
+    font-style: normal;
+}
+
+.navigation-link {
+
+}
+
+.navigation-soc-list {}
+
+.navigation-soc-item {}
+
+.navigation-soc-link {}
+
+
+
+.name {
+    border-radius: 30px;
+    background: rgba(17, 17, 17, 0.6);
+}
+
+.name-title {
+    font-weight: 500;
+        font-size: 28px;
+        line-height: 121%;
+        letter-spacing: -0.03em;
+        color: #fff;
+
+}
+
+.name-scroll { 
+    border-radius: 100px;
+    background: #fd9222;
+        font-weight: 600;
+        font-size: 14px;
+        color: #fff;
+}
+
+.name-link {
+    font-weight: 600;
+    font-size: 14px;
+    color: #fff;
+}
+
+
+
+
+.description {
+background: #1e1823;
+}
+
+.description-list {}
+
+.description-item {}
+
+.description-subtitle {
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+}
+
+.description-paragraph {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 129%;
+        letter-spacing: -0.02em;
+        color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+.products {}
+
+.products-title {}
+
+.title {}
+
+.accent {}
+
+.products-title-text {}
+
+.products-list {}
+
+.products-item {
+    background: #fd9222;
+}
+.products-soc-item{}
+
+.products-tvo-item{
+    background: #1e1823;
+}
+
+.products-paragraph {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 129%;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #fff;
+}
+.products-soc-paragraph {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 129%;
+        letter-spacing: -0.02em;
+        color: #111;
+}
+
+
+
+
+
+.made {}
+
+.made-title {}
+
+.title {}
+
+.accent {}
+
+.made-subtitle {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 133%;
+        color: #111;
+}
+
+.made-list {}
+
+.made-item {}
+
+.made-text {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 129%;
+        letter-spacing: -0.02em;
+        color: #111;
+}
+
+
+
+
+
+
+
+
+.choice {}
+
+.choice-title {}
+
+.title {}
+
+.accent {}
+
+.choice-list {}
+
+.choice-item {}
+
+.choice-subtitle {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 133%;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: #111;
+    }
+
+.choice-text {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 117%;
+        letter-spacing: -0.02em;
+        color: rgba(17, 17, 17, 0.7);
+}
+
+.choice-btn {
+
+        font-weight: 600;
+        font-size: 14px;
+        color: #111;
+}
+
+
+
+
+
+.sellers {}
+
+.sellers-title {}
+
+.title {}
+
+.accent {}
+
+.sellers-list {}
+
+.sellers-item {}
+
+.sellers-subtitle {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 133%;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: #111;
+}
+
+
+
+
+
+.maker {}
+
+.maker-title {}
+
+.title {}
+
+.accent {}
+
+.maker-list {}
+
+.maker-item {}
+
+.maker-subtitle {
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 133%;
+        text-align: center;
+        color: #111;
+}
+
+.maker-text {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 129%;
+        letter-spacing: -0.02em;
+        text-align: center;
+        color: rgba(17, 17, 17, 0.7);
+}
+
+.maker-btn {
+        font-weight: 600;
+        font-size: 18px;
+        color: #111;
+}
+
+
+
+
+.bottom{
+background: #1e1823;
+}
+.bottom-paragraph {
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 121%;
+        letter-spacing: -0.02em;
+        color: #fff;
+}
+
+.accent {}
+
+.bottom-text {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 129%;
+        text-align: center;
+        color: #fff;
+}
+
+.bottom-list {}
+
+.bottom-item {}
+
+.bottom-link {}
+
+.contact {}
+
+.contact-list {}
+
+.contact-item {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 129%;
+        letter-spacing: -0.02em;
+        text-align: center;
+        color: #fff;
+}
+
+.contact-link {}
+
+.bottom-nav-list {}
+
+.bottom-nav-item {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 114%;
+        letter-spacing: -0.02em;
+        color: #fff;
+}
+
+.bottom-nav-link {}
